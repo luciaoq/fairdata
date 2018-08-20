@@ -1,0 +1,21 @@
+To be Findable:
+
+F1. (meta)data are assigned a globally unique and eternally persistent identifier or PID
+F2. data are described with rich metadata
+F3. (meta)data are registered or indexed in a searchable resource
+F4. metadata specify the data identifier
+Your institution’s/repository’s role:
+
+Assign a globally unique PID upon publication (or draft upload)
+Provide metadata schema in human- & machine-readable format (PID, author names, subject areas, etc)
+Support structured input of metadata (submission forms or XML schema)
+Index (meta)data to enable effective searching
+Allow metadata upload & assign corresponding PID
+Your role as a researcher:
+
+Check datasets that you use for PIDs & cite them
+Ensure that your datasets get published with PIDs
+Choose repositories that automate PID registration
+Report this requirement to repositories that don’t assign PIDs
+Add rich metadata (describe the dataset’s context, quality, condition & characteristics)
+Should be understandable by researchers from different disciplines (ask a friend to proofread)
